@@ -1,6 +1,7 @@
 # CRUD with MERN
 
-Create Read Update Delete with MongoDB Express React Node
+Create Read Update Delete with MongoDB Express React Node.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -9,11 +10,11 @@ In the project directory, you can run:
 
 ### `nodemon index`
 
-Jalankan perintah tersebut di folder backend.\
+Jalankan perintah tersebut di folder backend.
 
 ### `npm start`
 
-Jalankan perintah tersebut di folder frontend.\
+Jalankan perintah tersebut di folder frontend.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `Hasil`
